@@ -1,6 +1,7 @@
 # 0xBTC-Stats
 Simple web site to show stats about the 0xBTC ERC-20 token ([link](https://0x1d00ffff.github.io/0xBTC-Stats/))
 
+Pull request text.
 
 #### TODO
 
@@ -43,10 +44,7 @@ Simple web site to show stats about the 0xBTC ERC-20 token ([link](https://0x1d0
 
 #### BUGS
 
- - ~~On first page load, the last hashrate point may not display. Refreshing the 
-   page causes the value to display. Need more testing to find source.~~
- - ~~When loading graphs, occasionally the last epoch value loaded is 0, which
-   causes hashrate to be a very large negative number.~~
+ - just a few
 
 #### Misc notes
 
