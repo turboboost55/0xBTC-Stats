@@ -7,7 +7,7 @@ pragma solidity ^0.4.22;
 // Symbol      : 0xBTC
 // Name        : 0xBitcoin Token
 // Total supply: 21,000,000.00
-// Decimals    : 8
+// Decimals    : 88888
 //
 
 // ----------------------------------------------------------------------------
