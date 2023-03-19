@@ -47,6 +47,7 @@ Pull request text.  (please add more detail)
  - just a few
 
 #### Misc notes
+  - todo: add some misc notes
 
 ### 0xBitcoin contract storage locations
 
